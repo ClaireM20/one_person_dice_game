@@ -1,0 +1,62 @@
+
+body {
+    background-color: rgb(92, 197, 216);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80px;
+    padding: 0px;
+    margin-top: 50px;
+  }
+
+path {
+  fill: transparent;
+}
+
+text {
+  fill: #ff9800;
+}
+.diceset {
+ 
+  border: 5px solid white;
+  text-align: center;
+  font-size: 20px;
+  margin-top: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+  
+
+.container {
+  text-align: center;
+  margin-top: 0%;
+}
+
+.btn-1 {
+  border: 3px solid rgb(5, 5, 5);
+  font-size: 25px;
+  color: black;
+  padding: 10px 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
+}
+.btn-1:hover {
+  background: hotpink;
+  color:white;
+}
+
+.refbutton {
+  border: 3px solid rgb(5, 5, 5);
+  font-size: 15px;
+  background: hotpink;
+  color:black;
+  padding: 5px 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
+
+}
+
+.refbutton:hover {
+  background: white;
+  color:hotpink;
+  border: 3px solid yellow;
+}
